@@ -5,7 +5,7 @@ const app = Vue.createApp({
             author:'John doe',
             books:[
                 'Lord of the rings',
-                'Attack on titan'gi,
+                'Attack on titan',
                 'The promised neverland'
             ],
             query:''
